@@ -1,0 +1,7 @@
+{
+  "name": "ExploreGB.pk",
+  "description": "The premier booking platform for tourism in Gilgit-Baltistan, featuring tours to Hunza, Skardu, and beyond with AI-powered travel assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
